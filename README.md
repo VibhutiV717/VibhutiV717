@@ -1,16 +1,50 @@
-## Hi there 👋
+### 👋 Hi there! I'm Vibhuti
 
-<!--
-**VibhutiV717/VibhutiV717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate with a strong passion for Data Science and AI. After completing an Executive Post Graduate Program in Data Science & Artificial Intelligence (March 2025), I’m currently pursuing a Master’s in the same domain with a specialization in Deep Learning.
 
-Here are some ideas to get you started:
+I enjoy building machine learning and deep learning models that solve meaningful problems — from gesture recognition to AI assistants — and I’m continuously learning and exploring the evolving world of AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills & Tools
+
+**Languages & Libraries:**  
+Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, OpenCV  
+
+**Other Tools:**  
+Power BI, Jupyter Notebook, LangChain, Hugging Face, Git  
+
+**Specialized In:**  
+Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI
+
+---
+
+### 📂 Selected Projects
+
+**🔹 Gesture Recognition Using Neural Networks**  
+Developed a deep learning model to recognize hand gestures using 3D CNN and Conv2D+LSTM models for real-time interaction.  
+**Tools:** Python, TensorFlow, Keras, OpenCV, Conv3D, LSTM
+
+**🔹 Eye for the Blind – Capstone Project**  
+Built an AI-powered solution to assist visually impaired users by recognizing surroundings and providing voice-based guidance.  
+**Tools:** Python, CNN, OpenCV, TensorFlow
+
+**🔹 Telecom Churn Prediction**  
+Implemented a classification model to predict customer churn using feature engineering and model evaluation techniques.  
+**Tools:** Python, pandas, scikit-learn, Logistic Regression, SVM
+
+**🔹 HelpMate AI – Generative AI Assistant**  
+Designed a conversational AI assistant capable of handling task-specific queries using LLMs and prompt engineering.  
+**Tools:** Python, LangChain, Hugging Face, OpenAI API
+
+---
+
+📌 *More academic and coursework-based projects are available in my GitHub repositories.*
+
+---
+
+### 📫 Let's Connect!
+
+📧 Email: koladiyavibhuti@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/vibhutikoldiya)  
+🐱‍💻 GitHub: [github.com/VibhutiV717](https://github.com/VibhutiV717)
