@@ -25,15 +25,15 @@ Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI
 Developed a deep learning model to recognize hand gestures using 3D CNN and Conv2D+LSTM models for real-time interaction.  
 **Tools:** Python, TensorFlow, Keras, OpenCV, Conv3D, LSTM
 
-**🔹 Eye for the Blind – Capstone Project**  
+**🔹 [Eye for the Blind – Capstone Project](https://github.com/VibhutiV717/Eye-for-the-Blind---Capstone-Project)**  
 Built an AI-powered solution to assist visually impaired users by recognizing surroundings and providing voice-based guidance.  
 **Tools:** Python, CNN, OpenCV, TensorFlow
 
-**🔹 Telecom Churn Prediction**  
+**🔹 [Telecom Churn Prediction](https://github.com/VibhutiV717/Telecom-Churn-Case-Study)**  
 Implemented a classification model to predict customer churn using feature engineering and model evaluation techniques.  
 **Tools:** Python, pandas, scikit-learn, Logistic Regression, SVM
 
-**🔹 HelpMate AI – Generative AI Assistant**  
+**🔹 [HelpMate AI – Generative AI Assistant](https://github.com/VibhutiV717/HelpMate-AI-Project-DL-)**  
 Designed a conversational AI assistant capable of handling task-specific queries using LLMs and prompt engineering.  
 **Tools:** Python, LangChain, Hugging Face, OpenAI API
 
