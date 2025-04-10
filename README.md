@@ -21,7 +21,8 @@ Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI
 
 ### 📂 Selected Projects
 
-**🔹 Gesture Recognition Using Neural Networks**  
+**🔹 - [Gesture Recognition Using Neural Networks](https://github.com/VibhutiV717/gesture-recognition-project)
+**  
 Developed a deep learning model to recognize hand gestures using 3D CNN and Conv2D+LSTM models for real-time interaction.  
 **Tools:** Python, TensorFlow, Keras, OpenCV, Conv3D, LSTM
 
